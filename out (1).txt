@@ -1,0 +1,3 @@
+Longest Compound Word: ethylenediaminetetraacetates
+Second Longest Compound Word: ethylenediaminetetraacetate
+Time taken: 2.6330s
