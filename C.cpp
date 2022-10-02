@@ -17,11 +17,6 @@ bool isCompoundWord(int n, string &str) {
   return dp[n-1];
 }
 
-
-void solve() {
-
-}
-
 int main() {
   clock_t tStart = clock();
 
